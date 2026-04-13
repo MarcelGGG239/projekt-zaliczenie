@@ -1,4 +1,4 @@
-## Ciekawostki o świecie
+## Ciekawostki dnia
 
 # Ziemniaczane Peru
 W Peru występuje ponad 3000 odmian ziemnikaów, które są tam uprawiane od ok. 7-8 tysięcy lat. Bulwy ziemniaków posiadają rozmaite kolory:żółte, fioletowe, czerwone, szare, oraz co najwązniejsze smakach. występuja nawet takie, które w smaku przypominają orzech lub masło! 
