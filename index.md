@@ -10,5 +10,7 @@
 
 [O nas](https://marcelggg239.github.io/o-nas.html) - więcej informacji na temat autorów strony, czyli nas :)
 
+
+
 Nie możesz znaleźć ciekawostki o interesującym Ciebie państwie lub regionie?
 Napisz do nas: geociekawe@gmail.com
