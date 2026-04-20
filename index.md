@@ -12,5 +12,5 @@
 
 
 
-Nie możesz znaleźć ciekawostki o interesującym Ciebie państwie lub regionie?
-Napisz do nas: geociekawe@gmail.com
+***Nie możesz znaleźć ciekawostki o interesującym Ciebie państwie lub regionie?
+Napisz do nas: geociekawe@gmail.com***
