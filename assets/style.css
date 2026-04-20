@@ -1,6 +1,8 @@
 ---
 ---
 
+<link rel="stylesheet" href="style.css">
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -22,7 +24,7 @@ a:hover {
 }
 
 code {
-  background: #EDEDED;
+  background: #FFFFFF;
   padding: 0.15rem 0.35rem;
   border-radius: 6px;
 }
