@@ -2,7 +2,7 @@
 
 ## Witamy na naszej stronie z ciekawostkami geograficznymi!!
 
-### Spis treści:
+## Spis treści:
 
 [Ciekawostki dnia](https://marcelggg239.github.io/ciekawostka-dnia.html) - znajdują się codzienne, nowe ciekawostki dotyczące różnych państw i regionów świata, o których na pewno nie słyszeliście!
 
