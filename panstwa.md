@@ -7,17 +7,17 @@ Państwa, o których znajdziecie ciekawostki:
   
 ![Nazwa obrazu/alternatywny tekst](https://www.szkolneinspiracje.pl/wp-content/uploads/2018/01/kontynenty-kontury.png)
 
-# Chile - rozciagłość
+# Chile - najdłuższe państwo świata
 
 Chile stanowi bardzo rozciągnięte równoleżnikowo państwo, które stanowi bogactwo fauny i flory Ameryki Południowej. Znajduje sie tu bardzo tu dużo, zróżnicowanych formacji roślinnych jak pustynie mgielne, lasy cypryśnikowe, lasy magellańskie czy tundra. Każda z nich charakteryzuje się swoim własnym klimatem oraz występującymi w nich gatunkami zwierząt. Kiedy zestawimy Chile z Europą, rozciąga się od Malty, aż za półocne krańce Norwegii, co faktycznie uzmysłowuje faktyczny rozmiar tego ciekawego państwa.
 
-# Nauru
+# Nauru - znikająca wyspa
 
 Nauru stanowi trzecie najmniejsze państwo świata pod względem powierzchni, zaraz po Watykanie oraz Monako. Jest małym, wyspiarskim państem zlokalizowanym na Oceanie Pacyficznym w regionie Oceanii, które zwłaszcza ze względu na swoją mała powierzchnię, zmaga się z pewnym ważnym problemem. Państwo zagrożone jest przez podnoszący się poziom wód oceanicznych, który doprowadzić może do całkowitego zniknięcia wyspy. W przypadku zdarzenia się takiego scenariusza, w australijkim mieście - Melborune, znajduje się 52-piętrowy budynek - Nauruhouse mogący na wypadek nieszczęścia wszystkich mieszkańcow tego malutkiego państwa.
 
 ![Mapa Nauru](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
 
-# USA
+# Hawaje (USA) - Aloha vibes only
 
 Dziś Hawaje są jednym ze stanów USA (jedynym położonym poza kontynentem), kiedyś były jednak niezależnym państwem. Powstały na skutek aktywności wulkanicznej, występującej tam plamy gorąca. Na wyspy przeyjeżdzają tysiace turystów w ciągu całego roku. Od stycznia do marca można wypatrywać wielorybów, od czerwca do września jest najbardziej słonecznie, a miesiące od kwietnia do grudnia najlepiej nadają się dla aktywnych turystów pragnących jak najwięcej zwiedzić. 
 
