@@ -1,4 +1,6 @@
-# Strona Główna
+---
+title: Strona główna
+---
 
 ## Witamy na naszej stronie z ciekawostkami geograficznymi!!
 
